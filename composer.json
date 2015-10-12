@@ -1,0 +1,14 @@
+{
+    "name": "helpfulhuman/wordpress-theme-mocker",
+    "description": "Simple project template for building the visual aspects fof a Wordpress theme.",
+    "require": {
+        "altorouter/altorouter": "^1.1"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Nick Glenn",
+            "email": "nick@helpfulhuman.com"
+        }
+    ]
+}
